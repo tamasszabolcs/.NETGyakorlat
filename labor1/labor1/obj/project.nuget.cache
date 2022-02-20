@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "64swtXLVGZoSj+N4cupCQwlNJVAw0zNiJPrm3SH13du7+M0tEhH/zFgG6o+jgwVWVV4kqtWeYltNanoLSPwu5Q==",
+  "success": true,
+  "projectFilePath": "E:\\dotnet\\labor1\\labor1\\labor1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
