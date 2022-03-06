@@ -1,0 +1,16 @@
+E:\dotnet\ProductApp\ProductApp\bin\Debug\ProductApp.exe.config
+E:\dotnet\ProductApp\ProductApp\bin\Debug\ProductApp.exe
+E:\dotnet\ProductApp\ProductApp\bin\Debug\ProductApp.pdb
+E:\dotnet\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+E:\dotnet\ProductApp\ProductApp\obj\Debug\MainWindow.g.cs
+E:\dotnet\ProductApp\ProductApp\obj\Debug\App.g.cs
+E:\dotnet\ProductApp\ProductApp\obj\Debug\ProductApp_MarkupCompile.cache
+E:\dotnet\ProductApp\ProductApp\obj\Debug\ProductApp_MarkupCompile.lref
+E:\dotnet\ProductApp\ProductApp\obj\Debug\MainWindow.baml
+E:\dotnet\ProductApp\ProductApp\obj\Debug\ProductApp.g.resources
+E:\dotnet\ProductApp\ProductApp\obj\Debug\ProductApp.Properties.Resources.resources
+E:\dotnet\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.GenerateResource.cache
+E:\dotnet\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+E:\dotnet\ProductApp\ProductApp\obj\Debug\ProductApp.exe
+E:\dotnet\ProductApp\ProductApp\obj\Debug\ProductApp.pdb
+E:\dotnet\ProductApp\ProductApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
